@@ -3,6 +3,7 @@
 * Meet with UT law supervisor for legal review
 * Meet with Freshform
 * Add survey branches for after 9/1/2015 branch
+* Change "About" page to be about the project and move the hearings content to the two landing pages, expunction or nondisclosure, as appropriate
 * Download PDF with as many fields autofilled from survey as possible. Note that this data isn't persisted and will disappear when the page is refreshed
 * Plan out donation for automatic sustainability
   - Winner of ATX Hack for Change
